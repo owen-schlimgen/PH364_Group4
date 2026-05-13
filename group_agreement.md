@@ -1,1 +1,1 @@
-One of the things we notice was the Jack folder. It serves no real purpose so we would like to remove that. Another thing we noticed that was an issue in github was the duplicated tags. In general we should have some generalized tags that encompass multiple files instead of 
+One of the things we notice was the Jack folder. It serves no real purpose so we would like to remove that. Another thing we noticed that was an issue in github was the duplicated tags. In general we should have some generalized tags that encompass multiple files instead of 1 tag for 1 thing. 
